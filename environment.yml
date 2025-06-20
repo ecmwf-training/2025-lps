@@ -1,0 +1,21 @@
+name: example-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - cdsapi
+  - netCDF4
+  - xarray
+  - matplotlib
+  - cartopy
+
+
+
+
+
+
+ 
+
+
+
